@@ -1,1 +1,2 @@
 # KryptonTrialDev
+for trial devs
